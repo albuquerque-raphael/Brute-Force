@@ -24,7 +24,7 @@ Projeto: Auditoria de Segurança com Medusa e Kali Linux
 
 4. Conclusão e Medidas Preventivas
 
-Como advogado e futuro especialista em Cybersecurity, finalize com o olhar de prevenção:
+Como Desenvolvedor Full Stack e futuro especialista em Cybersecurity, finalize com o olhar de prevenção:
 
     Substituição de Protocolos: Trocar FTP por SFTP (SSH File Transfer Protocol).
 
